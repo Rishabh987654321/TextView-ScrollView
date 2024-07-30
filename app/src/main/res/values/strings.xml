@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TextView_ScrollView</string>
+    <string name="MyName">Rishabh kumar</string>
+    <string name="myBio">👋 Hi, I\'m Rishabh Kumar 🎓 Final year B.Tech student\n 💡 Core Skills: Data Structures and Algorithms, Java, React, Kotlin\n📱 Currently diving into app Development.\nI am a computer science engineering student from Galgotias University, currently learning mobile app development using kotlin.
+I also have a good knowledge of Frontend technology like react and javascript.
+I like to learn new technologies and play video games</string>
+    <string name="imageDescription">IMAGE</string>
+</resources>
